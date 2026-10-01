@@ -1,17 +1,19 @@
 # Hi there, I'm Pavel Luzanov 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Front--end%20Developer-2337ff?style=for-the-badge&logo=react&logoColor=white" alt="Front-end Developer" />
+  <img src="https://img.shields.io/badge/Tech%20Lead%20%2F%20Staff--level%20Engineer-2337ff?style=for-the-badge&logo=react&logoColor=white" alt="Tech Lead / Staff-level Engineer" />
   <img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-2337ff?style=for-the-badge" alt="Location: Tokyo, Japan" />
 </div>
 
 ## About Me
 
-I'm a passionate front-end developer based in Tokyo, Japan. I love building beautiful, functional web experiences and exploring new technologies.
+I'm a Tech Lead and staff-level product engineer based in Tokyo, Japan. I started in frontend engineering and now work across product architecture, technical strategy, engineering practices, and AI-augmented delivery.
 
-- 🔭 Currently working on modern web applications with React and TypeScript
-- 🌱 Learning and exploring new frameworks and tools
-- 💬 Ask me about JavaScript, React, or web development
+- 🔭 Turning ambiguous business problems into scoped technical plans and shipped systems
+- 🧭 Focused on frontend architecture, UI standardization, developer experience, and engineering culture
+- 🤖 Building agentic workflows for implementation, review, and cross-domain delivery
+- 💬 Ask me about React, TypeScript, system design, frontend architecture, or engineering practices
+- 🌍 Open to senior, staff, and tech-lead roles with relocation in Europe or North America
 - 📫 How to reach me: [arklogin@gmail.com](mailto:arklogin@gmail.com)
 
 ## Connect with Me
