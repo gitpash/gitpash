@@ -1,5 +1,11 @@
 # Hi there, I'm Pavel Luzanov 👋
 
+<p align="center">
+  <img src="assets/lighthouse-banner.gif" alt="A traveler watches a lighthouse sweep its beam across a moonlit sea" width="1100" />
+</p>
+
+<p align="center"><sub><a href="assets/lighthouse-banner.png">View a static version</a></sub></p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Tech%20Lead%20%2F%20Staff--level%20Engineer-2337ff?style=for-the-badge&logo=react&logoColor=white" alt="Tech Lead / Staff-level Engineer" />
   <img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-2337ff?style=for-the-badge" alt="Location: Tokyo, Japan" />
