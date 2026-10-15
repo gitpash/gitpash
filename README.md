@@ -3,7 +3,10 @@
 <p>Tech lead · Product architect · Front-end engineer<br>Tokyo, Japan · <a href="https://gitpash.github.io">Blog</a> · <a href="https://linkedin.com/in/pavelluz">LinkedIn</a> · <a href="mailto:arklogin@gmail.com">Email</a></p>
 
 <p align="center">
-  <img src="assets/lighthouse-banner.gif" alt="A traveler on a moonlit coast as a lighthouse beam sweeps across the sea" width="1100" />
+  <picture>
+    <source srcset="assets/lighthouse-banner.webp" type="image/webp">
+    <img src="assets/lighthouse-banner.gif" alt="A traveler on a moonlit coast as a lighthouse beam sweeps across the sea" width="1100" height="300" />
+  </picture>
 </p>
 
 I work from business need to shipped feature, combining product thinking, domain expertise, and hands-on front-end engineering. I also provide technical leadership and use AI agents to work effectively beyond my core stack when useful.
